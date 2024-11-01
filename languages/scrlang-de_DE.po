@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-cart-reminder-1.0\n"
+"POT-Creation-Date: 2020-05-18 10:22+0200\n"
+"PO-Revision-Date: 2020-05-18 10:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: info@itservicejung.de\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/backend/Dashboard.php:141 includes/helpers/Plugin_Info.php:34
+msgid "Email Templates"
+msgstr "Email Vorlagen"
+
+#: includes/backend/Dashboard.php:142
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: includes/backend/Dashboard.php:143
+msgid "Statistics"
+msgstr "Statistik"
+
+#: includes/helpers/Ajax.php:39
+msgid "Test email was send to: "
+msgstr "Test E-Mail wurde versendet an "
+
+#: includes/helpers/Ajax.php:42
+msgid "Error: Test email can't send to"
+msgstr "Fehler: Test Email  konnte nicht versendet werden"
+
+#: includes/helpers/Ajax.php:42
+msgid ", please check your input or mail server. "
+msgstr ", bitte überprüfe deine Eingabe oder dein Email Server. "
+
+#: includes/helpers/Meta_Post_Editor.php:46
+msgid "Main template"
+msgstr "Hauptvorlage"
+
+#: includes/helpers/Meta_Post_Editor.php:144
+msgid "example <cart@reminder.com"
+msgstr "Beispiel <warenkorb@erinnerung.com"
+
+#: includes/helpers/Meta_Post_Editor.php:242
+msgid "Product template"
+msgstr "Produktvorlage"
+
+#: includes/helpers/Meta_Post_Editor.php:288
+msgid "Title"
+msgstr "Titel"
+
+#: includes/helpers/Meta_Post_Editor.php:289
+#: includes/helpers/Meta_Post_Editor.php:419
+msgid "Heading"
+msgstr "Kopf"
+
+#: includes/helpers/Meta_Post_Editor.php:290
+msgid "Scheduled period"
+msgstr "Geplante Sendezeit"
+
+#: includes/helpers/Meta_Post_Editor.php:291
+msgid "Status"
+msgstr "Status"
+
+#: includes/helpers/Meta_Post_Editor.php:292
+msgid "Date"
+msgstr "Datum"
+
+#: includes/helpers/Meta_Post_Editor.php:308
+msgid "Everyminute"
+msgstr "Jede Minute"
+
+#: includes/helpers/Meta_Post_Editor.php:310
+msgid "Hourly"
+msgstr "Stündlich"
+
+#: includes/helpers/Meta_Post_Editor.php:312
+msgid "Daily"
+msgstr "Täglich"
+
+#: includes/helpers/Meta_Post_Editor.php:322
+msgid "On"
+msgstr "An"
+
+#: includes/helpers/Meta_Post_Editor.php:324
+msgid "Off"
+msgstr "Aus"
+
+#: includes/helpers/Meta_Post_Editor.php:352
+msgid "Header Email"
+msgstr "Email Kopf"
+
+#. 'SCR_settings',
+#: includes/helpers/Meta_Post_Editor.php:361
+msgid "Email Settings"
+msgstr "Email Eigenschaften"
+
+#: includes/helpers/Meta_Post_Editor.php:371
+msgid "Buy Premium Templates"
+msgstr "Premium Vorlagen kaufen"
+
+#: includes/helpers/Meta_Post_Editor.php:381
+msgid "Template Tags"
+msgstr "Vorlagen Schlüsselwörter"
+
+#: includes/helpers/Meta_Post_Editor.php:394
+msgid "Subject Email"
+msgstr "Betreff Email"
+
+#. Get the location data if it's already been entered
+#. Output the field
+#: includes/helpers/Meta_Post_Editor.php:408
+msgid "Subject"
+msgstr "Betreff"
+
+#: includes/helpers/Meta_Post_Editor.php:425
+msgid "Example <info@example.com>"
+msgstr "Beispiel <info@beispiel.com>"
+
+#: includes/helpers/Meta_Post_Editor.php:439
+msgid "days"
+msgstr "Tage"
+
+#: includes/helpers/Meta_Post_Editor.php:441
+msgid "nextsending"
+msgstr "Nächstes Versenden"
+
+#: includes/helpers/Meta_Post_Editor.php:453
+#: includes/helpers/Meta_Post_Editor.php:519
+msgid "Enable Email"
+msgstr "Aktiviere Email"
+
+#: includes/helpers/Meta_Post_Editor.php:460
+msgid "Send period"
+msgstr "Sendezeitraum"
+
+#: includes/helpers/Meta_Post_Editor.php:465
+msgid "Every Day"
+msgstr "Jeden Tag"
+
+#: includes/helpers/Meta_Post_Editor.php:466
+msgid "Every Hour"
+msgstr "Jede Stunde"
+
+#: includes/helpers/Meta_Post_Editor.php:467
+msgid "Every Minute"
+msgstr "Jede Minute"
+
+#: includes/helpers/Meta_Post_Editor.php:472
+msgid "Test Template"
+msgstr "Test Vorlage"
+
+#: includes/helpers/Meta_Post_Editor.php:479
+msgid "Send"
+msgstr "Senden"
+
+#: includes/helpers/Meta_Post_Editor.php:485
+msgid "Period start:"
+msgstr "Sendezeitraum startet in:"
+
+#: includes/helpers/Meta_Post_Editor.php:493
+msgid "Displays your site logo."
+msgstr "Zeigt ihr Logo an."
+
+#: includes/helpers/Meta_Post_Editor.php:495
+msgid "Displays the product list from the customer cart."
+msgstr "Zeigt die Warenproduktliste ihres Kunden an."
+
+#: includes/helpers/Meta_Post_Editor.php:497
+msgid "Direct link to customers cart."
+msgstr "Direkter Link zum Kundenwarenkorb."
+
+#: includes/helpers/Meta_Post_Editor.php:499
+msgid "Displays the product image."
+msgstr "Zeigt das Produktbild an."
+
+#: includes/helpers/Meta_Post_Editor.php:501
+msgid "Displays the product url."
+msgstr "Zeigt die Produkt-URL an."
+
+#: includes/helpers/Meta_Post_Editor.php:503
+msgid "Displays the product name."
+msgstr "Zeigt den Produktnamen an."
+
+#: includes/helpers/Meta_Post_Editor.php:505
+msgid "Displays the product price."
+msgstr "Zeigt den Produktpreis an."
+
+#: includes/helpers/Meta_Post_Editor.php:525
+msgid "Before cart expiry date"
+msgstr "Vor dem Ablaufdatum des Warenkorbs"
+
+#: includes/helpers/Meta_Post_Editor.php:533
+msgid "Days"
+msgstr "Tage"
+
+#: includes/helpers/Meta_Post_Editor.php:534
+msgid "Hours"
+msgstr "Stunden"
+
+#: includes/helpers/Meta_Post_Editor.php:535
+msgid "Minutes"
+msgstr "Minuten"
+
+#: includes/helpers/Meta_Post_Editor.php:536
+msgid "Seconds"
+msgstr "Sekunden"
+
+#: includes/helpers/Plugin_Info.php:29 includes/helpers/Plugin_Info.php:30
+msgid "Cart Reminder"
+msgstr "Warenkorb Erinnerung"
+
+#: includes/helpers/Plugin_Info.php:31
+msgid "Email Archives"
+msgstr "Email Archive"
+
+#: includes/helpers/Plugin_Info.php:32
+msgid "Email Attributes"
+msgstr "Email Attribute"
+
+#: includes/helpers/Plugin_Info.php:33
+msgid "Parent Email:"
+msgstr "Übergeordnete E-Mail:"
+
+#: includes/helpers/Plugin_Info.php:35
+msgid "Add New Email"
+msgstr "Erstelle neue Email"
+
+#: includes/helpers/Plugin_Info.php:36
+msgid "Add New"
+msgstr "Erstellen"
+
+#: includes/helpers/Plugin_Info.php:37
+msgid "New Email"
+msgstr "Neue Email"
+
+#: includes/helpers/Plugin_Info.php:38
+msgid "Edit Email"
+msgstr "Email ändern"
+
+#: includes/helpers/Plugin_Info.php:39
+msgid "Update Email"
+msgstr "Aktualisiere Email"
+
+#: includes/helpers/Plugin_Info.php:40
+msgid "View Email"
+msgstr "Email ansehen"
+
+#: includes/helpers/Plugin_Info.php:41
+msgid "View Emails"
+msgstr "Emails ansehen"
+
+#: includes/helpers/Plugin_Info.php:42
+msgid "Search Email"
+msgstr "Suche Email"
+
+#: includes/helpers/Plugin_Info.php:43
+msgid "Not found"
+msgstr "Nicht gefunden"
+
+#: includes/helpers/Plugin_Info.php:44
+msgid "Not found in Trash"
+msgstr "Papierkorb ist leer"
+
+#: includes/helpers/Plugin_Info.php:45
+msgid "Featured Image"
+msgstr "Ausgewähltes Bild"
+
+#: includes/helpers/Plugin_Info.php:46
+msgid "Set featured image"
+msgstr "Ausgewähltes Bild setzen"
+
+#: includes/helpers/Plugin_Info.php:47
+msgid "Remove featured image"
+msgstr "Ausgewähltes Bild entfernen"
+
+#: includes/helpers/Plugin_Info.php:48
+msgid "Use as featured image"
+msgstr "Als vorgestellungs Bild verwenden"
+
+#: includes/helpers/Plugin_Info.php:49
+msgid "Insert item"
+msgstr "Item einfügen"
+
+#: includes/helpers/Plugin_Info.php:50
+msgid "Uploaded to this item"
+msgstr "Zu diesem Artikel hochladen"
+
+#: includes/helpers/Plugin_Info.php:51
+msgid "Emails list"
+msgstr "Email Liste"
+
+#: includes/helpers/Plugin_Info.php:52
+msgid "Emails list navigation"
+msgstr "Navigation durch die Email Liste"
+
+#: includes/helpers/Plugin_Info.php:53
+msgid "Filter items list"
+msgstr "Item Liste filtern"
+
+#: includes/helpers/Plugin_Info.php:56
+msgid "Cart Reminders"
+msgstr "Cart Reminders"
+
+#: includes/helpers/Plugin_Info.php:57
+msgid "Cart Email Reminder for WooCommerce"
+msgstr "Cart Email Reminder für WooCommerce"
+
+#: simple-cart-reminder.php:70
+msgid "Add New Reminder"
+msgstr "Neue Erinnerung hinzufügen"
+
+#: simple-cart-reminder.php:188
+msgid ""
+"Cart Reminder for WooCommerce is enabled and stays in standby. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"Cart Reminder für WooCommerce steht im Stand-By Modus. Dieses Plugin "
+"benötigt WooCommerce damit das Plugin aktiv wird."

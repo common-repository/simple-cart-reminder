@@ -1,0 +1,16 @@
+/***1.0.5 - 2020.09.02**/
+- Bugfixes
+- Email send time fixed
+/***1.0.4 - 2020.05.28**/
+- Bugfix saving css3 code now correctly
+/***1.0.3 - 2020.05.26**/
+- Bugfix email heading format in main and testmail section
+/***1.0.2 - 2020.05.25**/
+- Bugfix static classname
+/***1.0.1 - 2020.05.20**/
+- Fixing unique classnames and defines
+- Remove img url that points to my server
+- Email postdata sanitized
+- Fixing file location
+/***1.0.0 - 2020.05.17**/
+- Release

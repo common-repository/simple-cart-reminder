@@ -1,0 +1,271 @@
+
+.post-type-simple_cart_reminder #wpfooter {
+    position: initial;
+}
+
+.post-type-simple_cart_reminder #csscart-support .wide.field {
+    display: inline-block;
+    margin: 10px;
+}
+
+.post-type-simple_cart_reminder .tablenav.bottom .csscart-brand {
+    display: inline-block;
+    width: 100%;
+    margin: 10px 0;
+}
+
+.post-type-simple_cart_reminder .tablenav.bottom .tablenav-pages.one-page {
+    display: none;
+}
+
+.post-type-simple_cart_reminder .tablenav {
+    height: auto;
+}
+
+.post-type-simple_cart_reminder #wpbody-content {
+    padding-bottom: 0;
+}
+.post-type-simple_cart_reminder #wce-scheduled-email-filter .search-box {
+    display: inline-block;
+    position: absolute;
+    margin-top: 5px;
+}
+
+.wrap form .segment.wcb-container .vi-ui.dropdown.selection {
+    min-height: inherit !important;
+}
+
+.select2-container--default .select2-selection--single {
+    height: 34px;
+    border: 1px solid rgba(34, 36, 38, .15);
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li .select2-search__field {
+    width: 100% !important;
+    border: 0;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li {
+
+}
+.select2-container--default .select2-selection--multiple {
+    border: 1px solid rgba(34, 36, 38, .15); //lol
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 34px;
+}
+
+input[type="number"] {
+    height: auto;
+}
+
+.iris-picker {
+    position: absolute !important;
+}
+
+
+/*text editor iframe*/
+.wp-editor-container textarea.wp-editor-area,
+.wp-editor-container iframe {
+    min-height: 200px;
+}
+
+/*preview emails*/
+.preview-html-hidden {
+    display: none !important;
+}
+
+.preview-emails-html-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999;
+}
+
+.preview-emails-html-container .preview-emails-html-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(1, 1, 1, 0.3);
+}
+
+.preview-emails-html-container .preview-emails-html {
+    position: relative;
+    z-index: 99;
+    width: 50%;
+    max-height: 90%;
+    overflow: auto;
+}
+
+.form-table.wce-table th {
+    width: 80px;
+}
+
+.form-table.wce-table td input {
+    width: 100%;
+}
+
+#vi_after_title-sortables .postbox {
+    margin-top: 20px;
+}
+
+.wce-option-group {
+    margin: 10px 0;
+}
+
+.wce-option-group label, .wce-option-color label {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.wce-option-group input {
+    width: 100%;
+}
+
+.wce-option-group.flex {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.vi-ui .aligncenter {
+    text-align: center;
+}
+
+/**
+Card
+ */
+.vi-ui.grid {
+    width: 100%;
+}
+
+.vi-ui.grid .vi-23width.column {
+    width: 23% !important;
+}
+
+.vi-ui.grid .card {
+    border: none;
+    -webkit-box-shadow: 0 0 0.25rem rgba(108, 118, 134, .1);
+    box-shadow: 0 0 0.25rem rgba(108, 118, 134, .1);
+    margin-bottom: 30px;
+    color: #ffffff;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: .25rem;
+    padding: 0;
+}
+
+.bg-primary {
+    background-color: #5985ee !important;
+}
+
+.bg-info {
+    background-color: #4bbbce !important;
+}
+
+.bg-pink {
+    background-color: #e66793 !important;
+}
+
+.bg-success {
+    background-color: #46cd93 !important;
+}
+
+.mini-stat .mini-stat-desc {
+    background: rgba(255, 255, 255, .1);
+}
+
+.p-3 {
+    padding: 1rem !important;
+}
+
+.float-right {
+    float: right !important;
+}
+
+.font-14 {
+    font-size: 14px;
+}
+
+.text-white-50 {
+    color: rgba(255, 255, 255, .5) !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.mt-0, .my-0 {
+    margin-top: 0 !important;
+    margin-bottom: 20px;
+}
+
+.float-left {
+    float: left !important;
+}
+
+.badge {
+    font-weight: 600;
+    color: #fff;
+}
+
+.text-info {
+    color: #4bbbce !important;
+}
+
+.text-info {
+    color: #17a2b8 !important;
+}
+
+.badge-light {
+    color: #212529;
+    background-color: #f8f9fa;
+}
+
+.badge {
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+}
+
+.wce-title-card {
+    display: inline-block;
+    width: 100%;
+}
+
+.wce-title-card h6 {
+    font-size: 1rem;
+}
+
+.ml-2, .mx-2 {
+    margin-left: .5rem !important;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+tr.loading {
+    opacity: 0.5;
+}
